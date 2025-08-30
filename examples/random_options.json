@@ -1,0 +1,702 @@
+[
+  {
+    "spot": 109.73,
+    "strike": 50.15,
+    "maturity": 0.65,
+    "interest_rate": 0.0534,
+    "volatility": 0.18
+  },
+  {
+    "spot": 56.02,
+    "strike": 89.67,
+    "maturity": 1.22,
+    "interest_rate": 0.0444,
+    "volatility": 0.33
+  },
+  {
+    "spot": 132.55,
+    "strike": 108.41,
+    "maturity": 1.21,
+    "interest_rate": 0.0392,
+    "volatility": 0.43
+  },
+  {
+    "spot": 81.51,
+    "strike": 51.23,
+    "maturity": 0.59,
+    "interest_rate": 0.064,
+    "volatility": 0.19
+  },
+  {
+    "spot": 107.83,
+    "strike": 115.6,
+    "maturity": 1.99,
+    "interest_rate": 0.0854,
+    "volatility": 0.26
+  },
+  {
+    "spot": 54.95,
+    "strike": 93.28,
+    "maturity": 0.24,
+    "interest_rate": 0.075,
+    "volatility": 0.1
+  },
+  {
+    "spot": 61.36,
+    "strike": 68.71,
+    "maturity": 0.16,
+    "interest_rate": 0.079,
+    "volatility": 0.33
+  },
+  {
+    "spot": 88.47,
+    "strike": 99.7,
+    "maturity": 0.78,
+    "interest_rate": 0.0204,
+    "volatility": 0.15
+  },
+  {
+    "spot": 129.84,
+    "strike": 56.58,
+    "maturity": 1.3,
+    "interest_rate": 0.0694,
+    "volatility": 0.18
+  },
+  {
+    "spot": 141.7,
+    "strike": 143.1,
+    "maturity": 1.94,
+    "interest_rate": 0.064,
+    "volatility": 0.24
+  },
+  {
+    "spot": 77.31,
+    "strike": 103.67,
+    "maturity": 0.53,
+    "interest_rate": 0.0644,
+    "volatility": 0.23
+  },
+  {
+    "spot": 117.48,
+    "strike": 124.42,
+    "maturity": 1.31,
+    "interest_rate": 0.0913,
+    "volatility": 0.34
+  },
+  {
+    "spot": 55.79,
+    "strike": 89.14,
+    "maturity": 1.6,
+    "interest_rate": 0.058,
+    "volatility": 0.23
+  },
+  {
+    "spot": 89.64,
+    "strike": 99.9,
+    "maturity": 1.59,
+    "interest_rate": 0.0108,
+    "volatility": 0.32
+  },
+  {
+    "spot": 116.39,
+    "strike": 118.45,
+    "maturity": 1.63,
+    "interest_rate": 0.0278,
+    "volatility": 0.3
+  },
+  {
+    "spot": 115.15,
+    "strike": 108.69,
+    "maturity": 1.81,
+    "interest_rate": 0.0799,
+    "volatility": 0.17
+  },
+  {
+    "spot": 69.1,
+    "strike": 63.17,
+    "maturity": 0.86,
+    "interest_rate": 0.0676,
+    "volatility": 0.36
+  },
+  {
+    "spot": 109.11,
+    "strike": 142.73,
+    "maturity": 0.2,
+    "interest_rate": 0.0633,
+    "volatility": 0.38
+  },
+  {
+    "spot": 138.17,
+    "strike": 132.96,
+    "maturity": 1.0,
+    "interest_rate": 0.0431,
+    "volatility": 0.28
+  },
+  {
+    "spot": 123.54,
+    "strike": 114.86,
+    "maturity": 0.75,
+    "interest_rate": 0.0976,
+    "volatility": 0.23
+  },
+  {
+    "spot": 85.38,
+    "strike": 100.06,
+    "maturity": 1.64,
+    "interest_rate": 0.0513,
+    "volatility": 0.43
+  },
+  {
+    "spot": 76.0,
+    "strike": 87.86,
+    "maturity": 0.42,
+    "interest_rate": 0.0214,
+    "volatility": 0.22
+  },
+  {
+    "spot": 107.34,
+    "strike": 63.79,
+    "maturity": 1.41,
+    "interest_rate": 0.0531,
+    "volatility": 0.18
+  },
+  {
+    "spot": 63.24,
+    "strike": 104.6,
+    "maturity": 0.56,
+    "interest_rate": 0.0926,
+    "volatility": 0.25
+  },
+  {
+    "spot": 117.19,
+    "strike": 110.27,
+    "maturity": 0.83,
+    "interest_rate": 0.0738,
+    "volatility": 0.34
+  },
+  {
+    "spot": 107.97,
+    "strike": 144.96,
+    "maturity": 0.94,
+    "interest_rate": 0.0528,
+    "volatility": 0.44
+  },
+  {
+    "spot": 113.4,
+    "strike": 76.22,
+    "maturity": 0.33,
+    "interest_rate": 0.0603,
+    "volatility": 0.34
+  },
+  {
+    "spot": 131.71,
+    "strike": 133.85,
+    "maturity": 1.18,
+    "interest_rate": 0.0124,
+    "volatility": 0.22
+  },
+  {
+    "spot": 131.06,
+    "strike": 137.78,
+    "maturity": 0.27,
+    "interest_rate": 0.0611,
+    "volatility": 0.27
+  },
+  {
+    "spot": 68.17,
+    "strike": 128.39,
+    "maturity": 1.0,
+    "interest_rate": 0.0314,
+    "volatility": 0.2
+  },
+  {
+    "spot": 53.57,
+    "strike": 71.53,
+    "maturity": 0.25,
+    "interest_rate": 0.0767,
+    "volatility": 0.18
+  },
+  {
+    "spot": 99.87,
+    "strike": 84.77,
+    "maturity": 1.01,
+    "interest_rate": 0.0116,
+    "volatility": 0.12
+  },
+  {
+    "spot": 144.04,
+    "strike": 89.58,
+    "maturity": 0.36,
+    "interest_rate": 0.0898,
+    "volatility": 0.37
+  },
+  {
+    "spot": 100.65,
+    "strike": 149.69,
+    "maturity": 1.65,
+    "interest_rate": 0.0294,
+    "volatility": 0.25
+  },
+  {
+    "spot": 70.39,
+    "strike": 86.13,
+    "maturity": 0.6,
+    "interest_rate": 0.0651,
+    "volatility": 0.18
+  },
+  {
+    "spot": 110.69,
+    "strike": 128.88,
+    "maturity": 1.87,
+    "interest_rate": 0.0668,
+    "volatility": 0.26
+  },
+  {
+    "spot": 102.79,
+    "strike": 111.04,
+    "maturity": 0.41,
+    "interest_rate": 0.0658,
+    "volatility": 0.36
+  },
+  {
+    "spot": 56.26,
+    "strike": 101.16,
+    "maturity": 1.49,
+    "interest_rate": 0.0607,
+    "volatility": 0.24
+  },
+  {
+    "spot": 52.19,
+    "strike": 72.48,
+    "maturity": 1.88,
+    "interest_rate": 0.0865,
+    "volatility": 0.18
+  },
+  {
+    "spot": 123.45,
+    "strike": 51.56,
+    "maturity": 1.13,
+    "interest_rate": 0.0378,
+    "volatility": 0.46
+  },
+  {
+    "spot": 130.8,
+    "strike": 140.57,
+    "maturity": 0.88,
+    "interest_rate": 0.0931,
+    "volatility": 0.36
+  },
+  {
+    "spot": 147.13,
+    "strike": 137.08,
+    "maturity": 1.44,
+    "interest_rate": 0.0691,
+    "volatility": 0.31
+  },
+  {
+    "spot": 123.45,
+    "strike": 90.9,
+    "maturity": 1.66,
+    "interest_rate": 0.0882,
+    "volatility": 0.16
+  },
+  {
+    "spot": 67.25,
+    "strike": 108.34,
+    "maturity": 0.78,
+    "interest_rate": 0.0323,
+    "volatility": 0.37
+  },
+  {
+    "spot": 70.43,
+    "strike": 140.47,
+    "maturity": 1.69,
+    "interest_rate": 0.0244,
+    "volatility": 0.34
+  },
+  {
+    "spot": 141.7,
+    "strike": 148.37,
+    "maturity": 1.24,
+    "interest_rate": 0.0669,
+    "volatility": 0.21
+  },
+  {
+    "spot": 60.49,
+    "strike": 70.54,
+    "maturity": 0.52,
+    "interest_rate": 0.0965,
+    "volatility": 0.3
+  },
+  {
+    "spot": 56.78,
+    "strike": 148.21,
+    "maturity": 0.82,
+    "interest_rate": 0.0584,
+    "volatility": 0.49
+  },
+  {
+    "spot": 69.21,
+    "strike": 55.25,
+    "maturity": 0.25,
+    "interest_rate": 0.0134,
+    "volatility": 0.32
+  },
+  {
+    "spot": 114.29,
+    "strike": 106.07,
+    "maturity": 1.66,
+    "interest_rate": 0.0346,
+    "volatility": 0.22
+  },
+  {
+    "spot": 121.78,
+    "strike": 135.03,
+    "maturity": 0.5,
+    "interest_rate": 0.0831,
+    "volatility": 0.41
+  },
+  {
+    "spot": 50.42,
+    "strike": 100.2,
+    "maturity": 0.78,
+    "interest_rate": 0.0601,
+    "volatility": 0.42
+  },
+  {
+    "spot": 57.77,
+    "strike": 72.14,
+    "maturity": 0.54,
+    "interest_rate": 0.0966,
+    "volatility": 0.14
+  },
+  {
+    "spot": 111.4,
+    "strike": 104.68,
+    "maturity": 0.38,
+    "interest_rate": 0.098,
+    "volatility": 0.49
+  },
+  {
+    "spot": 60.21,
+    "strike": 81.71,
+    "maturity": 1.87,
+    "interest_rate": 0.0754,
+    "volatility": 0.23
+  },
+  {
+    "spot": 120.37,
+    "strike": 117.07,
+    "maturity": 0.47,
+    "interest_rate": 0.0693,
+    "volatility": 0.3
+  },
+  {
+    "spot": 90.9,
+    "strike": 147.36,
+    "maturity": 0.57,
+    "interest_rate": 0.0192,
+    "volatility": 0.3
+  },
+  {
+    "spot": 65.59,
+    "strike": 142.18,
+    "maturity": 1.51,
+    "interest_rate": 0.0861,
+    "volatility": 0.31
+  },
+  {
+    "spot": 116.31,
+    "strike": 105.41,
+    "maturity": 0.52,
+    "interest_rate": 0.0663,
+    "volatility": 0.2
+  },
+  {
+    "spot": 99.43,
+    "strike": 72.12,
+    "maturity": 0.38,
+    "interest_rate": 0.0151,
+    "volatility": 0.38
+  },
+  {
+    "spot": 89.95,
+    "strike": 96.72,
+    "maturity": 1.28,
+    "interest_rate": 0.0756,
+    "volatility": 0.4
+  },
+  {
+    "spot": 112.37,
+    "strike": 61.13,
+    "maturity": 0.18,
+    "interest_rate": 0.0656,
+    "volatility": 0.15
+  },
+  {
+    "spot": 51.37,
+    "strike": 90.75,
+    "maturity": 0.57,
+    "interest_rate": 0.0699,
+    "volatility": 0.12
+  },
+  {
+    "spot": 93.09,
+    "strike": 126.64,
+    "maturity": 0.88,
+    "interest_rate": 0.0427,
+    "volatility": 0.31
+  },
+  {
+    "spot": 106.95,
+    "strike": 107.12,
+    "maturity": 0.14,
+    "interest_rate": 0.0827,
+    "volatility": 0.3
+  },
+  {
+    "spot": 142.9,
+    "strike": 79.2,
+    "maturity": 1.26,
+    "interest_rate": 0.0507,
+    "volatility": 0.42
+  },
+  {
+    "spot": 127.44,
+    "strike": 66.05,
+    "maturity": 0.67,
+    "interest_rate": 0.0345,
+    "volatility": 0.2
+  },
+  {
+    "spot": 78.62,
+    "strike": 58.58,
+    "maturity": 0.51,
+    "interest_rate": 0.0203,
+    "volatility": 0.18
+  },
+  {
+    "spot": 82.94,
+    "strike": 143.17,
+    "maturity": 0.22,
+    "interest_rate": 0.0825,
+    "volatility": 0.45
+  },
+  {
+    "spot": 140.28,
+    "strike": 102.85,
+    "maturity": 0.65,
+    "interest_rate": 0.011,
+    "volatility": 0.3
+  },
+  {
+    "spot": 149.46,
+    "strike": 102.92,
+    "maturity": 0.7,
+    "interest_rate": 0.0432,
+    "volatility": 0.3
+  },
+  {
+    "spot": 145.95,
+    "strike": 50.05,
+    "maturity": 1.41,
+    "interest_rate": 0.0739,
+    "volatility": 0.31
+  },
+  {
+    "spot": 134.79,
+    "strike": 82.12,
+    "maturity": 0.72,
+    "interest_rate": 0.0266,
+    "volatility": 0.44
+  },
+  {
+    "spot": 93.51,
+    "strike": 85.09,
+    "maturity": 0.17,
+    "interest_rate": 0.0443,
+    "volatility": 0.43
+  },
+  {
+    "spot": 60.64,
+    "strike": 117.0,
+    "maturity": 0.95,
+    "interest_rate": 0.049,
+    "volatility": 0.21
+  },
+  {
+    "spot": 64.45,
+    "strike": 145.05,
+    "maturity": 1.77,
+    "interest_rate": 0.0307,
+    "volatility": 0.37
+  },
+  {
+    "spot": 103.99,
+    "strike": 148.77,
+    "maturity": 0.95,
+    "interest_rate": 0.0251,
+    "volatility": 0.18
+  },
+  {
+    "spot": 139.73,
+    "strike": 100.12,
+    "maturity": 0.38,
+    "interest_rate": 0.0698,
+    "volatility": 0.45
+  },
+  {
+    "spot": 53.41,
+    "strike": 114.65,
+    "maturity": 0.54,
+    "interest_rate": 0.0866,
+    "volatility": 0.16
+  },
+  {
+    "spot": 65.01,
+    "strike": 91.35,
+    "maturity": 0.33,
+    "interest_rate": 0.0774,
+    "volatility": 0.2
+  },
+  {
+    "spot": 66.37,
+    "strike": 89.93,
+    "maturity": 0.51,
+    "interest_rate": 0.0445,
+    "volatility": 0.31
+  },
+  {
+    "spot": 52.61,
+    "strike": 101.21,
+    "maturity": 0.47,
+    "interest_rate": 0.0368,
+    "volatility": 0.4
+  },
+  {
+    "spot": 62.03,
+    "strike": 95.9,
+    "maturity": 0.31,
+    "interest_rate": 0.0282,
+    "volatility": 0.15
+  },
+  {
+    "spot": 116.53,
+    "strike": 77.09,
+    "maturity": 0.42,
+    "interest_rate": 0.0805,
+    "volatility": 0.27
+  },
+  {
+    "spot": 105.24,
+    "strike": 140.02,
+    "maturity": 0.17,
+    "interest_rate": 0.0748,
+    "volatility": 0.49
+  },
+  {
+    "spot": 113.55,
+    "strike": 90.4,
+    "maturity": 0.78,
+    "interest_rate": 0.0134,
+    "volatility": 0.35
+  },
+  {
+    "spot": 63.6,
+    "strike": 56.07,
+    "maturity": 1.84,
+    "interest_rate": 0.0457,
+    "volatility": 0.26
+  },
+  {
+    "spot": 70.8,
+    "strike": 63.55,
+    "maturity": 0.73,
+    "interest_rate": 0.0959,
+    "volatility": 0.47
+  },
+  {
+    "spot": 59.96,
+    "strike": 141.71,
+    "maturity": 1.18,
+    "interest_rate": 0.0155,
+    "volatility": 0.37
+  },
+  {
+    "spot": 81.78,
+    "strike": 84.89,
+    "maturity": 0.6,
+    "interest_rate": 0.0637,
+    "volatility": 0.44
+  },
+  {
+    "spot": 136.71,
+    "strike": 75.68,
+    "maturity": 0.21,
+    "interest_rate": 0.0287,
+    "volatility": 0.24
+  },
+  {
+    "spot": 83.46,
+    "strike": 141.72,
+    "maturity": 0.69,
+    "interest_rate": 0.0434,
+    "volatility": 0.48
+  },
+  {
+    "spot": 143.47,
+    "strike": 112.95,
+    "maturity": 0.3,
+    "interest_rate": 0.0526,
+    "volatility": 0.41
+  },
+  {
+    "spot": 52.46,
+    "strike": 83.84,
+    "maturity": 0.74,
+    "interest_rate": 0.07,
+    "volatility": 0.41
+  },
+  {
+    "spot": 57.0,
+    "strike": 60.92,
+    "maturity": 1.46,
+    "interest_rate": 0.0461,
+    "volatility": 0.16
+  },
+  {
+    "spot": 84.54,
+    "strike": 87.45,
+    "maturity": 1.46,
+    "interest_rate": 0.0696,
+    "volatility": 0.37
+  },
+  {
+    "spot": 79.63,
+    "strike": 127.82,
+    "maturity": 1.95,
+    "interest_rate": 0.0746,
+    "volatility": 0.16
+  },
+  {
+    "spot": 72.73,
+    "strike": 76.83,
+    "maturity": 1.71,
+    "interest_rate": 0.0332,
+    "volatility": 0.16
+  },
+  {
+    "spot": 141.72,
+    "strike": 78.02,
+    "maturity": 1.2,
+    "interest_rate": 0.0521,
+    "volatility": 0.18
+  },
+  {
+    "spot": 117.54,
+    "strike": 72.89,
+    "maturity": 1.08,
+    "interest_rate": 0.087,
+    "volatility": 0.26
+  }
+]
